@@ -213,7 +213,7 @@ int main ()
     printf("                                             *");
     printf("\n**********************************************\n");
     printf("                                             *\n");
-    printf("   #*By Esmaeil Keshavarz, Zahra Khorsand*#  *\n");
+    printf("   #*By Esmaeil Keshavarz*#  *\n");
     printf("                                             *");
     printf("\n**********************************************\n");
     png_byte **read_to_matrix= readingstep("test.png");
